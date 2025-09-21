@@ -1,141 +1,112 @@
-# 📋 Top 75 DSA Questions
+# 📚 Top 75 DSA Questions with LeetCode Links
 
-This is a curated list of **Top 75 Data Structures & Algorithms (DSA)** questions to practice for interviews. Covers arrays, strings, linked lists, trees, dynamic programming, and more.  
+This repository contains a curated list of the **Top 75 Data Structures and Algorithms (DSA)** questions, complete with direct links to their LeetCode solutions. Perfect for interview preparation and enhancing problem-solving skills.
 
 ---
 
-## 🧠 Questions List
+## 🔗 Problem List
 
 ### Arrays
-1. Next Permutation  
-2. Stock Buy and Sell — Multiple Transactions Allowed  
-3. Minimize the Heights  
-4. First Missing Positive  
-
-### Strings
-5. String to Integer — Your Own `atoi()`  
-6. Anagram Check  
-7. First Non-Repeating Character  
-8. Min Chars to Add for Palindrome  
-
-### Sorting
-9. Sort 0s, 1s and 2s  
-10. Count Inversions  
-11. Insert and Merge Interval  
-12. Merge Two Sorted Arrays Without Extra Space  
-13. Chocolate Distribution Problem  
-
-### Searching
-14. Search in Rotated Sorted Array  
-15. Peak Element  
-16. K-th Element of Two Sorted Arrays  
-17. Allocate Minimum Pages  
-18. K-th Missing Positive Number  
-
-### Matrix
-19. Spiral Traversal  
-20. Search in a Sorted Matrix  
-21. Set Matrix Zeroes  
-
-### Hashing
-22. Print All Pairs With Given Sum  
-23. Longest Subsequence With Adjacent Difference of 0 or 1  
-24. Longest Consecutive Sequence  
-25. Count Subarrays With Given XOR  
-
-### Two Pointer Technique
-26. Triplet Sum  
-27. Longest Substring With Distinct Characters  
-28. Trapping Rain Water  
-
-### Prefix Sum
-29. Longest Subarray With Equal No. of 0s and 1s  
-30. Product of Array Except Self  
-31. Find Starting Petrol Pump for Circular Tour  
+1. [Two Sum](https://leetcode.com/problems/two-sum/)
+2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+3. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+4. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+5. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+6. [3Sum](https://leetcode.com/problems/3sum/)
+7. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+8. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+9. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+10. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+11. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+12. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+13. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+14. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+15. [Word Pattern](https://leetcode.com/problems/word-pattern/)
+16. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+17. [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
+18. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+19. [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+20. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 ### Linked List
-32. Reverse a Linked List in Groups  
-33. Segregate Even and Odd Nodes in a Linked List  
-34. Clone a Linked List  
-35. Remove Loop in Linked List  
-36. LRU Cache  
+21. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+22. [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+23. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+24. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+25. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+26. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+27. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
-### Backtracking
-37. Permutations of a String  
-38. N-Queens  
+### Stack & Queue
+28. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+29. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+30. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+31. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+32. [Daily Temperature](https://leetcode.com/problems/daily-temperature/)
+33. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+34. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+35. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+36. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+37. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
-### Tree
-39. Construct Tree from Inorder and Preorder  
-40. Boundary Traversal  
-41. Count all K-Sum Paths in Binary Tree  
-42. Fixing Two Nodes of BST  
-43. LCA in BST  
-44. Largest BST in a Tree  
+### Trees
+38. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+39. [Same Tree](https://leetcode.com/problems/same-tree/)
+40. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+41. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+42. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+43. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+44. [Path Sum](https://leetcode.com/problems/path-sum/)
+45. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+46. [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+47. [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+48. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+49. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+50. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+51. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+52. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+53. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
-### Heap
-45. Merge K Sorted Lists  
-46. Median of a Stream  
-47. Top K Frequent Elements in an Array  
-
-### Stack
-48. Longest Valid Parentheses  
-49. Largest Area in a Histogram  
-50. Maximum and Minimum of Every Window Size  
-51. Min Stack  
-
-### Queue & Deque
-52. Sliding Window Maximum  
-53. Maximum Score With Jumps of At Most Length K  
+### Graphs
+54. [Clone Graph](https://leetcode.com/problems/clone-graph/)
+55. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+56. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+57. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+58. [Word Ladder](https://leetcode.com/problems/word-ladder/)
+59. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+60. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+61. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+62. [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+63. [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+64. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
 
 ### Dynamic Programming
-54. Subset Sum Problem  
-55. Longest Increasing Subsequence  
-56. Longest Palindromic Subsequence  
-57. Count Palindromic Substrings  
-58. Minimum Jumps to Reach End  
-59. Coin Change — Minimum Coins  
-60. Stock Buy and Sell — Max K Transactions Allowed  
-61. House Robber II  
-62. Word Break  
-63. Count Possible Decodings of a Digit Sequence  
-
-### Greedy
-64. Minimum Platforms  
-65. Job Sequencing  
-66. Maximize Partitions With Unique Characters  
-
-### Graph
-67. Islands in a Graph  
-68. Minimum Time to Rot Oranges  
-69. Cycle in an Undirected Graph  
-70. Cycle in a Directed Graph  
-71. Topological Sorting  
-72. Minimum Cost to Connect All Points  
-73. City with Fewest Neighbors Within Threshold Distance  
-74. Email Account Merging  
-
-### Trie
-75. Insert and Search in a Trie  
+65. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+66. [Coin Change](https://leetcode.com/problems/coin-change/)
+67. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+68. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
+69. [Word Break](https://leetcode.com/problems/word-break/)
+70. [Word Break II](https://leetcode.com/problems/word-break-ii/)
+71. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+72. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+73. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+74. [Jump Game](https://leetcode.com/problems/jump-game/)
+75. [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 ---
 
-## 🎯 How to Use This List
+## 🚀 How to Use This List
 
-- Mark each problem as you solve it.  
-- Try to solve in multiple languages (if possible).  
-- For each problem, write down:
-  - The brute-force solution  
-  - The optimized solution  
-  - Time & space complexity  
-  - Key insights / patterns  
-
-- Revisit the hard ones after a week or two to ensure retention.  
+- **Clone this repository** and start solving problems in order.  
+- **Track your progress** by checking off each problem as you complete it.  
+- **Focus on understanding the underlying concepts** and patterns.  
+- **Revisit challenging problems** after a few days to reinforce learning.  
 
 ---
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Kashif Ansari**
+Made with ❤️ in C++ by **Kashif Ansari**
 
----
+
 
